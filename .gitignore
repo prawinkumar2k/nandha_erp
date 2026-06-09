@@ -1,0 +1,28 @@
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Local configurations
+.env
+.env.local
+.env.*.local
+
+# Dependency directories (if added later)
+node_modules/
+vendor/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Jetro local config/cache
+.jetro/
+
